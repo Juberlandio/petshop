@@ -132,7 +132,7 @@ color: var(--cor-p4);
 font: 700 3.75rem/1.16 sans-serif;
 }
 .font-1-xl {
-font: 500 2.5rem/0.83 sans-serif; 
+font: 500 2.5rem/1.2 sans-serif; 
 }
 .font-1-l {
 font: 400 2.25rem/0.83 sans-serif;
@@ -276,4 +276,21 @@ list-style: none;
 }
 .links-redes li + li{
 padding-left: 47px;
+}
+
+/* Marcas */
+.marcas h2{
+padding-top: 135px;
+padding-bottom: 80px;
+}
+.imagens-marcas {
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+align-items: center;
+}
+.imagens-marcas img {
+width: 150px;
+height: 150px;
+padding: 20px;
 }

@@ -69,8 +69,7 @@ text-align: center;
 --cor-13: #000000;
 --cor-p1: #3C184E;
 --cor-p2: #CED9DF;
---cor-p3: #DE8E37;
---cor-p4: #166CC8;
+--cor-p3: #166CC8;
 }
 .cor-0 {
 color: var(--cor-0);
@@ -122,9 +121,6 @@ color: var(--cor-p2);
 }
 .cor-p3 {
 color: var(--cor-p3);
-} 
-.cor-p4 {
-color: var(--cor-p4);
 } 
 
 /* Tipografia */

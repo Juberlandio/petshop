@@ -218,7 +218,7 @@ height: 52px;
 height: auto;
 }
 .container-principal h1{
-font-size: 2.5rem;
+font-size: 1.5rem;
 }
 .container-principal {
 padding-bottom: 20px;
@@ -255,11 +255,9 @@ justify-content: center;
 align-items: center;
 }
 @media (max-width: 1000px){
-.container-principal {
-height: auto;
-}
-.container-principal h1{
-font-size: 2.5rem;
+.servicos h2{
+font-size: 1.5rem;
+padding-top: 50px;
 }
 }
 
@@ -291,7 +289,7 @@ padding-left: 47px;
 }
 @media (max-width: 1000px){
 .redes h2 {
-font-size: 2rem;
+font-size: 1.5rem;
 }
 .redes {
 height: auto;
@@ -316,7 +314,12 @@ width: 150px;
 height: 150px;
 padding: 20px;
 }
-
+@media (max-width: 1000px){
+.marcas h2 {
+font-size: 1.5rem;
+padding-top: 50px;
+}
+}
 /* Localização */
 .localizacao h2{
 padding-top: 130px;
@@ -331,12 +334,13 @@ padding-bottom: 198px;
 }
 @media (max-width: 1000px){
 .localizacao h2 {
-font-size: 2rem;
+font-size: 1.5rem;
 padding-left: 20px;
 padding-right: 20px;
+padding-top: 50px;
 }
 .localizacao p {
-font-size: 2rem;
+font-size: 1.5rem;
 padding-left: 20px;
 padding-right: 20px;
 }

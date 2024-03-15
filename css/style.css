@@ -148,7 +148,7 @@ font: 400 0.75rem/0.83 sans-serif;
 
 /* Introdução */
 .introducao-bg {
-background-image: url(../img/banner-topo.jpg);
+background-image: url('../img/banner-topo.jpg');
 background-size: cover;
 background-position: center center;
 background-repeat: no-repeat;
